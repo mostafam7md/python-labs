@@ -1,0 +1,12 @@
+floor of 1.0 is : 1
+ceil of 1.0 is : 1
+square root of 1.0 is : 1.0
+area of the circle 3.141592653589793
+floor of 2.0 is : 2
+ceil of 2.0 is : 2
+square root of 2.0 is : 1.4142135623730951
+area of the circle 12.566370614359172
+floor of 3.0 is : 3
+ceil of 3.0 is : 3
+square root of 3.0 is : 1.7320508075688772
+area of the circle 28.274333882308138

@@ -1,0 +1,4 @@
+math_automation ran in 6.1165 seconds
+math_automation ran in 4.4873 seconds
+regex_log_cleaner_decorated ran in 0.0033 seconds
+regex_log_cleaner_decorated ran in 0.0014 seconds

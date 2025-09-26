@@ -1,0 +1,6 @@
+admin123@mydomain.net
+alice_123@gmail.com
+bob.smith@yahoo.com
+john.doe@example.com
+sarah-jane@company.org
+test_user@outlook.com
